@@ -1,8 +1,0 @@
-#Fri Mar 07 17:05:07 CET 2025
-shadowDistance=160.0
-TRANSLUCENT_COLORED_SHADOWS=true
-BLOOMY_FOG=1.0
-Haze_amount=0.8
-Vanilla_like_water=true
-Seasons=true
-TOD_Fog_mult=0.75
