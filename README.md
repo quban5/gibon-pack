@@ -11,7 +11,7 @@ Paczka modów Gibona dla Minecrafta 1.20.1.
 5. Kliknij **"Przeglądaj"**, wybierz wcześniej pobraną paczkę (1_20_1.zip) i kliknij **"Ok"**
 6. Kliknij prawym przyciskiem myszy na **"Gibon Pack 1.20.1"** i wybierz **"Edytuj"**
 7. Po lewej stronie wybierz zakładkę **"Ustawienia"**
-8. Zaznacz ptaszkiem **"Pamięć"**. W polach **"Minimalny przydział pamięci"** i **"Maksymalny przydział pamięci"** wpisz odpowiednie wartości według poniższej tabelki.
+8. Zaznacz ptaszkiem **"Pamięć"**. W polach **"Minimalny przydział pamięci"** i **"Maksymalny przydział pamięci"** wpisz odpowiednie wartości według poniższej tabelki:
 
 | **Pamięć RAM twojego komputera** | **Minimalny przydział pamięci** | **Maksymalny przydział pamięci** |
 | -------------------------------- | ------------------------------- | -------------------------------- |
@@ -26,6 +26,11 @@ Paczka modów Gibona dla Minecrafta 1.20.1.
 Distant Horizons to mod, który pozwala ustawić znacznie wyższą odległość renderowania chunków jednocześnie nie zmieniając gry w pokaz slajdów.
 Shadery dostępne w tej paczce są w pełni kompatybilne z Distant Horizons. Zanim zainstalujesz inne shadery sprawdź, czy są kompatybilne. Jeśli nie, gra może kiepsko wyglądać.
 Wszystkie shadery kompatybilne z tym modem możesz znaleźć [tutaj](https://gist.github.com/Steveplays28/52db568f297ded527da56dbe6deeec0e?permalink_comment_id=4945506).
+W paczce umieściłem shadery w różnym stylu i o różnych wymaganiach sprzętowych. Wybierz te, które Ci się najbardziej podobają.
+Oczywiście możesz je też zupełnie wyłączyć.
+
+Każde shadery posiadają swoje ustawienia i można w nich najczęściej wybrać poziom ustawień graficznych.
+Jeśli jakieś shadery wyglądają fajnie, ale gra kiepsko chodzi, spróbuj zmniejszyć ich ogólne ustawienia graficzne.
 
 
 ## Mody warte sprawdzenia.
