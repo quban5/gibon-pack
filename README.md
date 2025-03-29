@@ -45,6 +45,7 @@ Przede wszystkim zapoznaj się z modem [Create](https://www.youtube.com/watch?v=
 - [Architectury](https://architectury.github.io/architectury-documentations/) [9\.2\.14] by shedaniel
 - BadOptimizations [2\.2\.1] by Thosea
 - [Beautify](https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated) [1\.2\.0\+1\.20\.1] by Suel\_ki
+- [Better Advancements](https://modrinth.com/mod/better-advancements) [0/.4/.2/.25] by way2muchnoise
 - [Better Animations Collection](https://github.com/Fuzss/betteranimationscollection) [8\.0\.0] by KodaichiZero, Fuzs
 - [Better End Sky](https://github.com/PinkGoosik/better-end-sky) [0\.2\.1\+1\.20] by paulevs, BetterX Team
 - Better Mount HUD [1\.2\.2] by Lortseam
@@ -104,7 +105,6 @@ Przede wszystkim zapoznaj się z modem [Create](https://www.youtube.com/watch?v=
 - GuardVillagers [2\.0\.9\-1\.20\.1] by MrSterner
 - [Healing Campfire](https://serilum.com/mod/healing-campfire) [6\.1] by Rick South
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) [1\.3\.4\+1\.20\.4] by RK\_01
-- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) [1\.1\.8\+1\.20\.1] by Luke100000
 - [Immersive Melodies](https://www.curseforge.com/minecraft/mc-mods/ImmersiveMelodies) [0\.3\.0\+1\.20\.1] by Luke100000
 - [Indium](https://modrinth.com/mod/indium) [1\.0\.34\+mc1\.20\.1] by comp500
 - [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting) [1\.9\.0\-1\.20] by kyrptonaught
@@ -144,7 +144,9 @@ Przede wszystkim zapoznaj się z modem [Create](https://www.youtube.com/watch?v=
 - [Toggleable Item Frames](https://www.curseforge.com/minecraft/mc-mods/toggle-item-frames) [5\.1\.0\-1\.20\.1] by Iamaprogrammer
 - [ToolStats](https://www.curseforge.com/minecraft/mc-mods/tool-stats) [16\.0\.9] by Darkhax
 - Towns and Towers [1\.10\.2] by Kubek, Biban\_Auriu, Cristelknight
+- [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) [9\.1\.29] by Tiviacz1337
 - [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric) [3\.7\.2] by Emi, C4
+- [Universal Graves](https://modrinth.com/mod/universal-graves) [3\.0\.3] by Patbox
 - Vegan Delight [1\.4\.1]
 - [Villagers Plus](https://github.com/finallion/VillagersPlus_-FABRIC-) [3\.1] by Finallion
 - [Visuality](https://modrinth.com/mod/visuality) [0\.7\.1\+1\.20] by PinkGoosik
